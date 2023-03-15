@@ -1,4 +1,4 @@
 namespaces:
 - dev
-- stage
-- prod
+# - stage
+# - prod
