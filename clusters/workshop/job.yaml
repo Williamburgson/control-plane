@@ -1,7 +1,7 @@
 apiVersion: batch/v1
 kind: Job
 metadata:
-  generateName: start-argocd-syncing-
+  name: start-argocd-syncing
   namespace: akuity
 spec:
   template:
